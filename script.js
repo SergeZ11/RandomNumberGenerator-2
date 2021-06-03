@@ -37,7 +37,7 @@ function enableButton() {
     Button.disabled = false;
 }
 
-
+/*Run All Functions on CLICK*/
 function onClick() {
     hideText();
     showLoader();
